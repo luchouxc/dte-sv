@@ -5,3 +5,7 @@ Large and mid-sized companies have already migrated — they have in-house accou
 Micro-businesses (clinics, freelancers, e-commerce shops, professional firms) are in a blind spot: the free government portal forces them to type each invoice by hand, local SaaS options are closed and rigid, and a custom build runs between $300 and $600 just for setup.
 
 According to CONAMYPE (El Salvador's small-business agency), there are roughly 58,000 formally registered MSEs (Micro and Small Enterprises) in the country. Of those, between 30,000 and 55,000 invoice fewer than 500 sales per month — a volume that's perfect for a no-code solution, but too small to justify an ERP. That's this product's niche.
+
+## URL for LIVE Website
+
+https://5b37df5e.dte-sv.pages.dev/
